@@ -1,0 +1,26 @@
+# Compiled Python files
+__pycache__/
+
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Python cache folders
+__pycache__/
+.python/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Project specific
+.idea/
+*.iml
+
+# Database files
+*.sqlite3
+
+# Environment and virtual environment files
+.env/
+venv/
+.DS_Store/
